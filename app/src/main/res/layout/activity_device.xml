@@ -8,6 +8,7 @@
     android:orientation="vertical">
 
     <com.zwl.mydevice.widget.ListMoreTextView
+        android:id="@+id/tv_more"
         android:layout_width="match_parent"
         android:text="121231431431251325312512312123143143125132531251235125132512351235151351351351212314314312513253125123512513251235123515135135135512513251235123515135135135"
         app:more_text_maxLines="3"
