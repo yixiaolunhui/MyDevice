@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">爱机</string>
+    <string name="select_lock_time">未选择锁屏时间</string>
+</resources>
